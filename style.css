@@ -11,6 +11,7 @@ main {
 }
 h1{
     padding-top: 15px;
+    font-size: xx-large;
 }
 
 h1, h2, h3 {
@@ -25,6 +26,7 @@ h2 {
     font-family: cursive;
 }
 h3{
+    font-size: medium;
 }
 
 .top {  
@@ -34,7 +36,7 @@ h3{
 
 .middle{
     height: 80px;
-    background: white;   
+    background: beige;   
 }
 
 .bottom{
