@@ -10,11 +10,11 @@ myButton.addEventListener('click', () => {
     myName.textContent = userInput;  
 });
 blueButton.addEventListener('click', () => {
-    document.body.style.backgroundColor = "blue"
+    document.body.style.backgroundColor = "01baef"
 })
 greenButton.addEventListener('click', () => {
-    document.body.style.backgroundColor = "green"
+    document.body.style.backgroundColor = "81b29a"
 })
 pinkButton.addEventListener('click', () => {
-    document.body.style.backgroundColor = "palevioletred"
+    document.body.style.backgroundColor = "ffc6ff"
 })
